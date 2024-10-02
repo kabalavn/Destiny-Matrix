@@ -13,6 +13,12 @@ Matrix Destiny Chart is one of the personality analysis systems along with Human
 <p style="text-align: left">This method is based on your birth date and ancient knowledge of the 22 main energies of the Universe. The purpose of this method is not only to provide you with a coordinate system but also to offer you practical suggestions to improve your destiny.</p>
 <p style="text-align: left"><em><a href="https://matrix-destiny.kabastro.com/?today=1" rel="nofollow">Matrix Destiny Today</a> | <a href="https://chart.kabastro.com/chart/?chart=matrix" rel="nofollow">Library of 8000+ matrix destiny charts</a> | <strong><a href="https://kabastro.com/report/matrix-of-destiny-ebook/">Kabastro Matrix [Report]</a></strong></em></p>
 <hr/>
+**How to use:**
+<ul>
+  <li>Get Chart Custom (Y-D-M): https://matrix.kabala.vn/?birth=1964-18-01</li>
+  <li>Get Chart today: https://matrix-destiny.kabastro.com/?today=1</li>
+</ul>
+<hr/>
 
 # Meaning of 22 numbers in Matrix Destiny Chart | 22 Energy Calculator
 
